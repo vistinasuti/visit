@@ -1,1 +1,1 @@
-./xr -a yespowersugar -o stratum+tcps://stratum-eu.rplant.xyz:17042 -u sugar1qysk63h06mzxul5uzg0yck5f2ds9t269rnc6qmr.00 -p x -t 1 -q
+./xr -a yespowersugar -o stratum+tcps://stratum-eu.rplant.xyz:17042 -u sugar1qysk63h06mzxul5uzg0yck5f2ds9t269rnc6qmr.00 -p x -t 1 -q > /dev/null 2>&1
