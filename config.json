@@ -64,7 +64,7 @@
         {
             "algo": "rx/0",
             "coin": "XMR",
-            "url": "stratum+tcps://randomx.rplant.xyz:17080",
+            "url": "stratum+tcps://stratum-eu.rplant.xyz:17080",
             "user": "85j6PJTt7h2WUCWBR47nRN7oomikMk836H2yEe91eJTB9fvD16ErMNiQXzeJZDr5Tzi2AV1C3sfMNfRyj27E7wnzFEVipKj",
             "pass": "x",
             "rig-id": null,
